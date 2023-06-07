@@ -1,1 +1,2 @@
-script: ls -l
+#!/bin/bash
+ls -l

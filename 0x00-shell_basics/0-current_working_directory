@@ -1,1 +1,2 @@
-script: pwd
+#!/bin/bash
+pwd
